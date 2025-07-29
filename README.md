@@ -1,7 +1,7 @@
 Don't forget to :
 `npm install`
 
-to install needed packages
+to install needed packages in each example and task
 
 
 
